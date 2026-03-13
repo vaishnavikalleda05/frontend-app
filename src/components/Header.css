@@ -1,5 +1,6 @@
 .App-Header{
-  background-color: orange;
+  background-color: rgb(128, 41, 63);
+  color: wheat;
   display: flex;
   justify-content: space-between;
   padding: 10px;
